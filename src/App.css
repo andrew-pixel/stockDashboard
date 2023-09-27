@@ -1,0 +1,38 @@
+body {
+    background: #ebeced;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form {
+
+
+    border-radius: 7px;
+    border: none;
+    display: flex;
+    justify-content: space-between;
+    width: 20vw;
+    padding: 10px 10px 0px 10px;
+    margin: 10px 10px;
+
+}
+
+form input {
+    background: white;
+    font-size: 14px;
+    font-weight: 200;
+    border-radius: 7px;
+    border: none;
+    height: 40px;
+
+}
+
+input {
+    border: none;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
